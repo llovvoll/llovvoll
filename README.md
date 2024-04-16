@@ -309,10 +309,11 @@ Sunday                   363 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Delphi                   46 mins             █████████████████████░░░░   82.11 % 
+INI                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -328,7 +329,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2024 16:25:36 UTC
+ Last Updated on 16/04/2024 18:23:16 UTC
 <!--END_SECTION:waka-->
 
 </br>
