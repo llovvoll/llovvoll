@@ -309,10 +309,10 @@ Sunday                   363 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -328,7 +328,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2024 16:25:06 UTC
+ Last Updated on 29/04/2024 18:24:58 UTC
 <!--END_SECTION:waka-->
 
 </br>
