@@ -309,11 +309,10 @@ Sunday                   349 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-ObjectPascal             10 mins             █████████████████████░░░░   83.54 % 
-YAML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -329,7 +328,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2024 16:40:25 UTC
+ Last Updated on 02/10/2024 18:42:12 UTC
 <!--END_SECTION:waka-->
 
 </br>
