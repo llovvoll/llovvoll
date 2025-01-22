@@ -309,11 +309,10 @@ Sunday                   358 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     3 mins              █████████████████████████   99.31 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -329,7 +328,7 @@ C++                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2025 03:02:27 UTC
+ Last Updated on 22/01/2025 04:37:40 UTC
 <!--END_SECTION:waka-->
 
 </br>
