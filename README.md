@@ -126,9 +126,6 @@
   <samp>
     I'm an enthusiastic and driven self-taught Full stack developer 😸 My curiosity and passion about computing and programming 🚀 and it's still increasing 🔝 , day by day, without losing desire to learn more and improve myself.
   </samp>
-  <br> <br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fllovvoll%2FJannchie&count_bg=%233D91C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true" alt="https://github.com/llovvoll"/>
-</p>
 
 </br>
 
