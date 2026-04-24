@@ -126,143 +126,28 @@
   <samp>
     I'm an enthusiastic and driven self-taught Full stack developer 😸 My curiosity and passion about computing and programming 🚀 and it's still increasing 🔝 , day by day, without losing desire to learn more and improve myself.
   </samp>
+</p>
 
 </br>
 
 <h2 align="center">🔧 Languages and Tools</h2>
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5"
-    width="40"
-    height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="css3"
-    width="40"
-    height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
-    width="40"
-    height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript"
-    width="40"
-    height="40"
-    />
-  </a>  
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-    alt="vuejs"
-    width="40"
-    height="40"
-    />
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img
-    src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-    alt="nuxtjs"
-    width="40"
-    height="40"
-    />
-  </a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react"
-    width="40"
-    height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-    alt="nextjs"
-    width="40"
-    height="40"
-    />
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-    alt="go"
-    width="40"
-    height="40"
-    />
-  </a>  
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    alt="github"
-    width="40"
-    height="40"
-    />
-  </a>
-  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
-    alt="gitlab"
-    width="40"
-    height="40"
-    />
-  </a>  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="linux"
-    width="40"
-    height="40"
-    />
-  </a>
-  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"
-    alt="debian"
-    width="40"
-    height="40"
-    />
-  </a>  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker"
-    width="40"
-    height="40"
-    />
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    alt="postman"
-    width="40"
-    height="40"
-    />
-  </a>   
-  <a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
-    alt="chrome"
-    width="40"
-    height="40"
-    />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
 </p>
 
 </br>
@@ -281,55 +166,6 @@
 
 <h2 align="center">🕑 WakaTime</h2>
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1702 commits        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-🌆 Daytime                2638 commits        ██████████░░░░░░░░░░░░░░░   39.73 % 
-🌃 Evening                1747 commits        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-🌙 Night                  552 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1437 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Tuesday                  906 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Wednesday                1003 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Thursday                 1154 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Friday                   1096 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Saturday                 594 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Sunday                   449 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue                      35 mins             ███████████████░░░░░░░░░░   61.59 % 
-Go                       17 mins             ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-
-🔥 Editors: 
-VS Code                  40 mins             █████████████████░░░░░░░░   69.17 % 
-Unknown Editor           17 mins             ████████░░░░░░░░░░░░░░░░░   30.83 % 
-```
-
-**I Mostly Code in Vue** 
-
-```text
-Vue                      17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-```
-
-
-
-
- Last Updated on 23/04/2026 22:23:14 UTC
 <!--END_SECTION:waka-->
 
 </br>
