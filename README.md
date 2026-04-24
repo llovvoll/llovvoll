@@ -166,6 +166,55 @@
 
 <h2 align="center">🕑 WakaTime</h2>
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1703 commits        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+🌆 Daytime                2638 commits        ██████████░░░░░░░░░░░░░░░   39.73 % 
+🌃 Evening                1747 commits        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+🌙 Night                  552 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1437 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Tuesday                  906 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Wednesday                1003 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Thursday                 1154 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Friday                   1097 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Saturday                 594 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Sunday                   449 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Vue                      35 mins             ███████████████░░░░░░░░░░   61.59 % 
+Go                       17 mins             ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+
+🔥 Editors: 
+VS Code                  40 mins             █████████████████░░░░░░░░   69.17 % 
+Unknown Editor           17 mins             ████████░░░░░░░░░░░░░░░░░   30.83 % 
+```
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+JavaScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+```
+
+
+
+
+ Last Updated on 24/04/2026 00:55:31 UTC
 <!--END_SECTION:waka-->
 
 </br>
