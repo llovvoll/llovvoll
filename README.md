@@ -191,15 +191,15 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       9 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.09 % 
-Vue                      5 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Markdown                 4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-SQL                      1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Go                       7 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   36.34 % 
+Vue                      5 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Markdown                 3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+SQL                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 19 mins      ███████████████░░░░░░░░░░   59.86 % 
-Claude Code              9 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.14 % 
+Claude Code              11 hrs 5 mins       █████████████░░░░░░░░░░░░   50.73 % 
+VS Code                  10 hrs 46 mins      ████████████░░░░░░░░░░░░░   49.27 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -215,7 +215,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 16:26:13 UTC
+ Last Updated on 25/07/2026 18:26:05 UTC
 <!--END_SECTION:waka-->
 
 </br>
