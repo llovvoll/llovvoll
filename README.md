@@ -166,6 +166,8 @@
 
 <h2 align="center">🕑 WakaTime</h2>
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2058%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -202,6 +204,30 @@ Claude Code              12 hrs 42 mins      ███████████�
 VS Code                  8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.59 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 18 hrs 4 mins (85.92%)
+
+✍️ 16,029 lines written by AI, 980 lines written by hand (94.24% AI-written)
+
+🔤 320,867,385 Input Tokens, 1,078,943 Output Tokens
+
+💵 $1565.65 Estimated AI Cost This Week
+
+🧠 31 AI Sessions, 352 AI Prompts
+
+Opus                     13,102 lines        ███████████████████░░░░░░   75.67 % 
+Fable                    4,212 lines         ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.24% of written lines came from AI
+📝 Concise Prompter — average 160 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 73.84% of changed lines were hand-edited
+```
+
 **I Mostly Code in Vue** 
 
 ```text
@@ -215,7 +241,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 15:07:56 UTC
+ Last Updated on 27/07/2026 16:49:07 UTC
 <!--END_SECTION:waka-->
 
 </br>
