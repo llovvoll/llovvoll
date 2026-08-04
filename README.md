@@ -193,40 +193,40 @@ Sunday                   511 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      10 hrs              ████████░░░░░░░░░░░░░░░░░   31.63 % 
-Go                       9 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.33 % 
-Markdown                 6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-TypeScript               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Go                       9 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.75 % 
+Vue                      8 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.50 % 
+Markdown                 5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+YAML                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+TypeScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 1 min        ████████████████░░░░░░░░░   63.26 % 
-Claude Code              11 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   36.74 % 
+VS Code                  18 hrs 27 mins      ████████████████░░░░░░░░░   63.81 % 
+Claude Code              10 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   36.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 59 mins (91.56%)
+⏱ AI Coding Time: 25 hrs 57 mins (89.78%)
 
-✍️ 45,913 lines written by AI, 684 lines written by hand (98.53% AI-written)
+✍️ 47,604 lines written by AI, 542 lines written by hand (98.87% AI-written)
 
-🔤 777,012,781 Input Tokens, 2,917,760 Output Tokens
+🔤 706,570,165 Input Tokens, 2,634,408 Output Tokens
 
-💵 $3180.00 Estimated AI Cost This Week
+💵 $2886.85 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 559 AI Prompts
+🧠 50 AI Sessions, 524 AI Prompts
 
-Fable                    29,488 lines        ████████████████░░░░░░░░░   62.04 % 
-Opus                     18,041 lines        █████████░░░░░░░░░░░░░░░░   37.96 % 
+Fable                    29,451 lines        ███████████████░░░░░░░░░░   59.86 % 
+Opus                     19,746 lines        ██████████░░░░░░░░░░░░░░░   40.14 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.53% of written lines came from AI
-📝 Concise Prompter — average 118 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 7.33% of changed lines were hand-edited
+🤖 AI-Driven — 98.87% of written lines came from AI
+📝 Concise Prompter — average 123 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 6.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Vue** 
@@ -242,7 +242,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 15:09:09 UTC
+ Last Updated on 04/08/2026 00:50:32 UTC
 <!--END_SECTION:waka-->
 
 </br>
