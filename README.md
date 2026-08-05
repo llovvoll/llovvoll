@@ -166,7 +166,7 @@
 
 <h2 align="center">🕑 WakaTime</h2>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%209%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -193,40 +193,40 @@ Sunday                   511 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      8 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.36 % 
-Go                       7 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
-Markdown                 5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-TypeScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Vue                      7 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.13 % 
+Go                       7 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
+Markdown                 4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+TypeScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 10 mins      █████████████░░░░░░░░░░░░   50.04 % 
-Claude Code              12 hrs 9 mins       ████████████░░░░░░░░░░░░░   49.96 % 
+VS Code                  12 hrs 57 mins      ██████████████░░░░░░░░░░░   56.23 % 
+Claude Code              10 hrs 5 mins       ███████████░░░░░░░░░░░░░░   43.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 9 mins (91.04%)
+⏱ AI Coding Time: 19 hrs 47 mins (85.9%)
 
-✍️ 30,508 lines written by AI, 815 lines written by hand (97.4% AI-written)
+✍️ 20,372 lines written by AI, 1,660 lines written by hand (92.47% AI-written)
 
-🔤 621,467,264 Input Tokens, 2,221,310 Output Tokens
+🔤 469,146,053 Input Tokens, 1,988,397 Output Tokens
 
-💵 $2681.80 Estimated AI Cost This Week
+💵 $1945.20 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 477 AI Prompts
+🧠 47 AI Sessions, 406 AI Prompts
 
-Opus                     21,381 lines        █████████████████░░░░░░░░   67.07 % 
-Fable                    10,496 lines        ████████░░░░░░░░░░░░░░░░░   32.93 % 
+Opus                     13,222 lines        ████████████████░░░░░░░░░   62.09 % 
+Fable                    8,073 lines         █████████░░░░░░░░░░░░░░░░   37.91 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.4% of written lines came from AI
-📝 Concise Prompter — average 104 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 79.09% of changed lines were hand-edited
+🤖 AI-Driven — 92.47% of written lines came from AI
+📝 Concise Prompter — average 182 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 85.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Vue** 
@@ -242,7 +242,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 16:40:40 UTC
+ Last Updated on 05/08/2026 18:40:23 UTC
 <!--END_SECTION:waka-->
 
 </br>
