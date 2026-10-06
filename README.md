@@ -193,29 +193,29 @@ Sunday                   578 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 42 mins             █████████████░░░░░░░░░░░░   50.06 % 
-SQL                      27 mins             ████████░░░░░░░░░░░░░░░░░   32.48 % 
-Go                       11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Vue                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Markdown                 42 mins             █████████████░░░░░░░░░░░░   50.70 % 
+SQL                      27 mins             ████████░░░░░░░░░░░░░░░░░   32.91 % 
+Go                       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Vue                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Claude Code              47 mins             ██████████████░░░░░░░░░░░   56.10 % 
-VS Code                  36 mins             ███████████░░░░░░░░░░░░░░   43.90 % 
+Claude Code              45 mins             ██████████████░░░░░░░░░░░   55.29 % 
+VS Code                  37 mins             ███████████░░░░░░░░░░░░░░   44.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (84.33%)
+⏱ AI Coding Time: 1 hr 9 mins (83.9%)
 
 ✍️ 26 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 911,522 Input Tokens, 87,911 Output Tokens
+🔤 614,172 Input Tokens, 83,241 Output Tokens
 
-💵 $17.16 Estimated AI Cost This Week
+💵 $13.63 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 22 AI Prompts
+🧠 5 AI Sessions, 20 AI Prompts
 
 Fable                    26 lines            █████████████████████████   100.00 % 
 
@@ -239,7 +239,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 16:24:57 UTC
+ Last Updated on 06/10/2026 18:26:05 UTC
 <!--END_SECTION:waka-->
 
 </br>
