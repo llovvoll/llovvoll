@@ -166,23 +166,23 @@
 
 <h2 align="center">🕑 WakaTime</h2>
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-366%20hrs%2026%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2269 commits        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+🌞 Morning                2269 commits        ███████░░░░░░░░░░░░░░░░░░   27.13 % 
 🌆 Daytime                3303 commits        ██████████░░░░░░░░░░░░░░░   39.49 % 
 🌃 Evening                2190 commits        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-🌙 Night                  603 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+🌙 Night                  602 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   1745 commits        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
 Tuesday                  1227 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Wednesday                1302 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Thursday                 1465 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Wednesday                1301 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Thursday                 1465 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
 Friday                   1362 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 Saturday                 686 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 Sunday                   578 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
@@ -193,37 +193,38 @@ Sunday                   578 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 42 mins             █████████████░░░░░░░░░░░░   50.70 % 
-SQL                      27 mins             ████████░░░░░░░░░░░░░░░░░   32.91 % 
-Go                       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Vue                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Markdown                 45 mins             ████████░░░░░░░░░░░░░░░░░   30.48 % 
+SQL                      37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+Go                       33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Text                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Vue                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 
 🔥 Editors: 
-Claude Code              45 mins             ██████████████░░░░░░░░░░░   55.29 % 
-VS Code                  37 mins             ███████████░░░░░░░░░░░░░░   44.71 % 
+Claude Code              1 hr 39 mins        █████████████████░░░░░░░░   67.04 % 
+VS Code                  48 mins             ████████░░░░░░░░░░░░░░░░░   32.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (83.9%)
+⏱ AI Coding Time: 2 hrs 7 mins (86.07%)
 
-✍️ 26 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 177 lines written by AI, 1 lines written by hand (99.44% AI-written)
 
-🔤 614,172 Input Tokens, 83,241 Output Tokens
+🔤 1,374,759 Input Tokens, 184,269 Output Tokens
 
-💵 $13.63 Estimated AI Cost This Week
+💵 $29.80 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 20 AI Prompts
+🧠 8 AI Sessions, 36 AI Prompts
 
-Fable                    26 lines            █████████████████████████   100.00 % 
+Fable                    177 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 36 characters per prompt
+🤖 AI-Driven — 99.44% of written lines came from AI
+📚 Verbose Prompter — average 1,990 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 11.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Vue** 
@@ -239,7 +240,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 16:24:27 UTC
+ Last Updated on 07/10/2026 18:26:50 UTC
 <!--END_SECTION:waka-->
 
 </br>
