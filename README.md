@@ -193,21 +193,21 @@ Sunday                   578 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   30.90 % 
-Vue                      46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-TypeScript               45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Text                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Go                       1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   32.28 % 
+TypeScript               45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Vue                      43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Text                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 59 mins       ██████████████████░░░░░░░   72.59 % 
-VS Code                  1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Claude Code              2 hrs 59 mins       ███████████████████░░░░░░   75.84 % 
+VS Code                  57 mins             ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 12 mins (77.71%)
+⏱ AI Coding Time: 3 hrs 12 mins (81.2%)
 
 ✍️ 459 lines written by AI, 57 lines written by hand (88.95% AI-written)
 
@@ -240,7 +240,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 16:22:05 UTC
+ Last Updated on 11/10/2026 18:25:05 UTC
 <!--END_SECTION:waka-->
 
 </br>
