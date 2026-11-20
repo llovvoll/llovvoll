@@ -171,21 +171,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3078 commits        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-🌆 Daytime                4396 commits        ██████████░░░░░░░░░░░░░░░   39.81 % 
-🌃 Evening                2862 commits        ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-🌙 Night                  707 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+🌞 Morning                3085 commits        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+🌆 Daytime                4416 commits        ██████████░░░░░░░░░░░░░░░   39.85 % 
+🌃 Evening                2873 commits        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+🌙 Night                  707 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2148 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Tuesday                  1741 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Wednesday                1806 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Thursday                 1967 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Friday                   1783 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Saturday                 807 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Sunday                   791 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Monday                   2148 commits        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Tuesday                  1749 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Wednesday                1813 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Thursday                 1980 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Friday                   1793 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Saturday                 807 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Sunday                   791 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -193,38 +193,38 @@ Sunday                   791 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       13 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   32.27 % 
-Markdown                 10 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-Text                     3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-TypeScript               2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Vue                      2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Go                       14 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   32.51 % 
+Markdown                 11 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+TypeScript               3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Text                     3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Vue                      3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🔥 Editors: 
-Claude Code              39 hrs 53 mins      ████████████████████████░   95.84 % 
-VS Code                  1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Claude Code              43 hrs 24 mins      ████████████████████████░   94.23 % 
+VS Code                  2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 36 mins (97.56%)
+⏱ AI Coding Time: 44 hrs 26 mins (96.48%)
 
-✍️ 29,646 lines written by AI, 243 lines written by hand (99.19% AI-written)
+✍️ 32,487 lines written by AI, 266 lines written by hand (99.19% AI-written)
 
-🔤 50,824,937 Input Tokens, 9,321,260 Output Tokens
+🔤 52,194,715 Input Tokens, 9,731,781 Output Tokens
 
-💵 $895.89 Estimated AI Cost This Week
+💵 $937.34 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 361 AI Prompts
+🧠 42 AI Sessions, 422 AI Prompts
 
-Opus                     31,605 lines        █████████████████████████   100.00 % 
+Opus                     34,657 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.19% of written lines came from AI
-📝 Concise Prompter — average 390 characters per prompt
+📝 Concise Prompter — average 303 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 1.81% of changed lines were hand-edited
+🚀 High AI Trust — 1.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Vue** 
@@ -240,7 +240,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 14:15:41 UTC
+ Last Updated on 20/11/2026 16:16:10 UTC
 <!--END_SECTION:waka-->
 
 </br>
